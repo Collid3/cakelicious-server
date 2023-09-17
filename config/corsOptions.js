@@ -1,4 +1,4 @@
-const alllowedOrigins = ["https://cakelicious-server.onrender.com"];
+const alllowedOrigins = ["https://cakelicious.onrender.com"];
 
 const corsOptions = {
   origin: (origin, callback) => {
