@@ -1,7 +1,4 @@
-const alllowedOrigins = [
-  "http://localhost:3000",
-  "http://localhost:3000/signin",
-];
+const alllowedOrigins = ["https://cakelicious-server.onrender.com"];
 
 const corsOptions = {
   origin: (origin, callback) => {
